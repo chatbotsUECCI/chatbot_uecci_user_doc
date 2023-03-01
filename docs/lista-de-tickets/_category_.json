@@ -1,0 +1,8 @@
+{
+  "label": "Lista de tickets",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Página de en la que el agente puede visualizar sus tickets."
+  }
+}
