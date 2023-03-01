@@ -1,0 +1,23 @@
+{
+  "unversionedId": "dashboard/disponibilidad",
+  "id": "dashboard/disponibilidad",
+  "title": "Disponibilidad",
+  "description": "El estado de un agente permite que otros agentes y al sistema si se encuentra disponible para la asignación de nuevos tickets.",
+  "source": "@site/docs/dashboard/disponibilidad.md",
+  "sourceDirName": "dashboard",
+  "slug": "/dashboard/disponibilidad",
+  "permalink": "/docs/dashboard/disponibilidad",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/docs/category/dashboard"
+  },
+  "next": {
+    "title": "Estadísticas de agente",
+    "permalink": "/docs/dashboard/estadisticas-de-agente"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "dashboard/estadisticas-de-agente",
+  "id": "dashboard/estadisticas-de-agente",
+  "title": "Estadísticas de agente",
+  "description": "En este panel el agente puede ver las estadísticas de los tickets que le han sido asignados.",
+  "source": "@site/docs/dashboard/estadisticas-de-agente.md",
+  "sourceDirName": "dashboard",
+  "slug": "/dashboard/estadisticas-de-agente",
+  "permalink": "/docs/dashboard/estadisticas-de-agente",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Disponibilidad",
+    "permalink": "/docs/dashboard/disponibilidad"
+  }
+}
