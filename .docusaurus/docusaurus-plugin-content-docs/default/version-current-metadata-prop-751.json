@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Introducción",
-        "href": "/docs/intro",
+        "href": "/chatbot_uecci_user_doc/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,17 +24,17 @@
           {
             "type": "link",
             "label": "Disponibilidad",
-            "href": "/docs/dashboard/disponibilidad",
+            "href": "/chatbot_uecci_user_doc/docs/dashboard/disponibilidad",
             "docId": "dashboard/disponibilidad"
           },
           {
             "type": "link",
             "label": "Estadísticas de agente",
-            "href": "/docs/dashboard/estadisticas-de-agente",
+            "href": "/chatbot_uecci_user_doc/docs/dashboard/estadisticas-de-agente",
             "docId": "dashboard/estadisticas-de-agente"
           }
         ],
-        "href": "/docs/category/dashboard"
+        "href": "/chatbot_uecci_user_doc/docs/category/dashboard"
       }
     ]
   },

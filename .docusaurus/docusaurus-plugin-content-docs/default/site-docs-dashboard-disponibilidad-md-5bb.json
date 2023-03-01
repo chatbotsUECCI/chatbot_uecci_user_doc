@@ -6,7 +6,7 @@
   "source": "@site/docs/dashboard/disponibilidad.md",
   "sourceDirName": "dashboard",
   "slug": "/dashboard/disponibilidad",
-  "permalink": "/docs/dashboard/disponibilidad",
+  "permalink": "/chatbot_uecci_user_doc/docs/dashboard/disponibilidad",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Dashboard",
-    "permalink": "/docs/category/dashboard"
+    "permalink": "/chatbot_uecci_user_doc/docs/category/dashboard"
   },
   "next": {
     "title": "Estadísticas de agente",
-    "permalink": "/docs/dashboard/estadisticas-de-agente"
+    "permalink": "/chatbot_uecci_user_doc/docs/dashboard/estadisticas-de-agente"
   }
 }

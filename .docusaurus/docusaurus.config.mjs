@@ -8,7 +8,7 @@ export default {
   "tagline": "Documentación de usuario",
   "favicon": "img/favicon.png",
   "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "baseUrl": "/chatbot_uecci_user_doc/",
   "organizationName": "chatbotsUECCI",
   "projectName": "chatbot_uecci_user_doc",
   "trailingSlash": false,

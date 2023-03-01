@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/chatbot_uecci_user_doc/docs",
+          "tagsPath": "/chatbot_uecci_user_doc/docs/tags",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/home/oscar/Documents/chatbot-ecci/chatbot_uecci_user_doc/sidebars.js",
@@ -25,7 +25,7 @@
               "source": "@site/docs/dashboard/disponibilidad.md",
               "sourceDirName": "dashboard",
               "slug": "/dashboard/disponibilidad",
-              "permalink": "/docs/dashboard/disponibilidad",
+              "permalink": "/chatbot_uecci_user_doc/docs/dashboard/disponibilidad",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -33,11 +33,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Dashboard",
-                "permalink": "/docs/category/dashboard"
+                "permalink": "/chatbot_uecci_user_doc/docs/category/dashboard"
               },
               "next": {
                 "title": "Estadísticas de agente",
-                "permalink": "/docs/dashboard/estadisticas-de-agente"
+                "permalink": "/chatbot_uecci_user_doc/docs/dashboard/estadisticas-de-agente"
               }
             },
             {
@@ -48,7 +48,7 @@
               "source": "@site/docs/dashboard/estadisticas-de-agente.md",
               "sourceDirName": "dashboard",
               "slug": "/dashboard/estadisticas-de-agente",
-              "permalink": "/docs/dashboard/estadisticas-de-agente",
+              "permalink": "/chatbot_uecci_user_doc/docs/dashboard/estadisticas-de-agente",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -56,7 +56,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Disponibilidad",
-                "permalink": "/docs/dashboard/disponibilidad"
+                "permalink": "/chatbot_uecci_user_doc/docs/dashboard/disponibilidad"
               }
             },
             {
@@ -67,7 +67,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/chatbot_uecci_user_doc/docs/intro",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -78,7 +78,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Dashboard",
-                "permalink": "/docs/category/dashboard"
+                "permalink": "/chatbot_uecci_user_doc/docs/category/dashboard"
               }
             }
           ],
@@ -108,7 +108,7 @@
                   "type": "generated-index",
                   "description": "Página de inicio. Aquí se encuentra el panel de estadísticas de agente y el panel de bienvenida que incluye el control de disponibilidad",
                   "slug": "/category/dashboard",
-                  "permalink": "/docs/category/dashboard"
+                  "permalink": "/chatbot_uecci_user_doc/docs/category/dashboard"
                 }
               }
             ]
@@ -121,12 +121,12 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/chatbot_uecci_user_doc/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/chatbot_uecci_user_doc/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",
