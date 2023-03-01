@@ -81,26 +81,26 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/chatbotsUECCI/chatbot_uecci_user_doc',
-              },
-            ],
-          },
+          // {
+          //   title: 'Docs',
+          //   items: [
+          //     {
+          //       label: 'Tutorial',
+          //       to: '/docs/intro',
+          //     },
+          //   ],
+          // },
+          // {
+          //   title: 'More',
+          //   items: [
+          //     {
+          //       label: 'GitHub',
+          //       href: 'https://github.com/chatbotsUECCI/chatbot_uecci_user_doc',
+          //     },
+          //   ],
+          // },
         ],
-        copyright: `© ${new Date().getFullYear()} made with 3 by CEINTECCI for a better society.`,
+        copyright: `© ${new Date().getFullYear()} made with ♡ by CEINTECCI for a better society.`,
       },
       prism: {
         theme: lightCodeTheme,
