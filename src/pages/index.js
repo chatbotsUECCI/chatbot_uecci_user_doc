@@ -4,6 +4,8 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import logo from  '../../static/img/logo.png'
+import logoCeintecci from  '../../static/img/logo-ceintecci.png'
 
 import styles from './index.module.css';
 
@@ -35,6 +37,18 @@ export default function Home() {
       <HomepageHeader />
       <main>
         {/* <HomepageFeatures /> */}
+        <div style={{display: 'flex', justifyContent: 'center', marginTop: '50px'}}>
+          <div style={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(2, 1fr)',
+            justifyItems: 'center',
+            maxWidth: '800px',
+            alignItems: 'center',
+          }}>
+            <img src={logo} alt="Logo" />
+            <img src={logoCeintecci} alt="Logo" />
+          </div>
+        </div>
       </main>
     </Layout>
   );

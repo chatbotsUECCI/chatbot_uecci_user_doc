@@ -1,0 +1,8 @@
+{
+  "label": "Dashboard",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Página de inicio. Aquí se encuentra el panel de estadísticas de agente y el panel de bienvenida que incluye el control de disponibilidad"
+  }
+}
